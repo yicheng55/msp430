@@ -1,0 +1,5 @@
+*.bak
+Debug/*.map
+Debug/*.out
+Debug/*.obj
+Debug/*.xml
